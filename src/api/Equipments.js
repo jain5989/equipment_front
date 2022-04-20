@@ -7,7 +7,7 @@ const Equipment = () => {
 
   const fetchData = async () => {
     const response = await axios.get(url, { headers : {
-        "x-api-key":"80Au0pl6lz795GM6wC4768bZaT1mU2Og5kvYj441"
+        "x-api-key":"m4SAYcxELn7vENk3Adtrl9yMtZFh8q10585bZrNn"
     },
     'Access-Control-Allow-Credentials':true
 })

@@ -1,7 +1,7 @@
 // Home.js
 
 import React, { Component } from 'react';
-import Equipment from '../api/Equipment';
+import Equipment from '../api/Equipments';
 
 class Home extends Component {
   render() {
